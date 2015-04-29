@@ -1,0 +1,22 @@
+{
+  "name": "kilowatts",
+  "version": "0.0.0",
+  "description": "Interactive story game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/itsravenous/kubla.git"
+  },
+  "author": "",
+  "license": "GPLv3",
+  "bugs": {
+    "url": "https://github.com/itsravenous/kubla/issues"
+  },
+  "homepage": "https://github.com/itsravenous/kubla",
+  "dependencies": {
+    "colors": "^1.1.0"
+  }
+}
